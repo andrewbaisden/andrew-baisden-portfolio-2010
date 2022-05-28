@@ -1,6 +1,6 @@
 # Andrew Baisden Portfolio Website 2010
 
-![Andrew Baisden Portfolio Website 2018 - 2019](https://res.cloudinary.com/d74fh3kw/image/upload/v1582389726/portfolio_2010_yoyxdi.jpg 'Andrew Baisden Portfolio Website 2018 - 2019')
+![Andrew Baisden Portfolio Website 2018 - 2019](/img/andrew-baisden-portfolio-2010.jpeg 'Andrew Baisden Portfolio Website 2018 - 2019')
 
 ## Flash Website
 
